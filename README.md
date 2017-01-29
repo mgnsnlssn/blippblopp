@@ -8,6 +8,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+# Large heading
+
+Commona paragraph, with _a italic_ word, another **emphasis is bold**
+
 ```markdown
 Syntax highlighted code block, finally I get to do Markdown
 
